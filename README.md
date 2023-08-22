@@ -1,6 +1,7 @@
 # Ecommerce-Watch-Store
 
-Project Details along with running Screen Shorts, are uploaded.
+Project Details along with running Screen Shorts, are [uploaded](https://drive.google.com/file/d/1yT8uNhxVqp6tzdSleU_cQPB0UtR2tYNM/view?usp=sharing).
+
 
 **Description :**
 Discover the epitome of modern ecommerce with our MERN-based Watch Store. Seamlessly combining the power of MongoDB, Express.js, React, and Node.js, we've created a cutting-edge platform that redefines online shopping. Immerse yourself in a captivating collection of watches that effortlessly blend timeless elegance and innovative technology. 
